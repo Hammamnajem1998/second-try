@@ -1997,6 +1997,7 @@ public class Customers extends javax.swing.JFrame {
          jPanel28.setVisible(false);
     }//GEN-LAST:event_button6ActionPerformed
 
+    //String sqlStmt="delete from customer where c_address = "+"'"+adress+"'" ;
     private void button8ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_button8ActionPerformed
         // TODO add your handling code here:
         jPanel32.setVisible(true);
