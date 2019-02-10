@@ -1,6 +1,6 @@
 <project default ="compile">
     <target name="compile">
-        <mKdir dir ="./target/classes"/>
+        <mkdir dir ="./target/classes"/>
         <javac srcdir ="./src/main/java/converter" destdir="./target/classes" debug="true" includeantruntime="false">
         </javac>
     </target>
